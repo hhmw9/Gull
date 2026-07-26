@@ -3,17 +3,17 @@ We provide a best doctor and service for your health
 <form method="POST" action="/login">
 
 <input
-type="email"
-name="email"
+type="email"gulmedical
+name="email"gmc
 placeholder="Email"
 class="form-control">
 
 <br>
 
 <input
-type="password"
+type="password"aaa
 name="password"
-placeholder="Password"
+placeholder="Password"aaa
 class="form-control">
 
 <br>
